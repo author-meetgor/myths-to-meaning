@@ -1,0 +1,16 @@
+baseURL = "https://mythstomeaning.pages.dev/"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+paginate = 20
+summaryLength = 0
+
+# googleAnalytics = "G-XXXXXXXXX"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
+
+
