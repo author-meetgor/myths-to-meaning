@@ -10,7 +10,7 @@ tags:
 authors:
     - meet-gor
 draft: false
-series: ["Mahishasur Mardini Stotram"]
+series: ["Mahishasur-Mardini-Stotram"]
 series_order: 3
 slug: mahishasur-mardini-stotram-verse-3
 ---
