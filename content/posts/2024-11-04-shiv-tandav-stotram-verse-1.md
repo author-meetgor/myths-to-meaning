@@ -12,7 +12,7 @@ authors:
 draft: false
 series: ["Shiv-Tandav-Stotram"]
 series_order: 1
-slug: shiv-tandav-stotram-verse-21
+slug: shiv-tandav-stotram-verse-1
 ---
 
 ## Shiv Tandav Stotram
