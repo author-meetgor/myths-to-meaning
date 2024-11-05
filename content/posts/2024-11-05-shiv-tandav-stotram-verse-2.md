@@ -37,7 +37,7 @@ However, people might call it a destructive act but as with anything in the worl
 > 
 > Vilola-Vichi-Vallari-Virajamana-Murdhani
 > 
-> Dhagad-Dhagad-Dhagad-**Gajjvala**\-Patta-Pavake
+> Dhagad-Dhagad-Dhagad-Gajjvala-Lalata-Patta-Pavake
 > 
 > Kishora-Chandra-Shekhare Ratihi Pratikshanam Mama
 
@@ -92,13 +92,13 @@ His damp and disheveled hair resembled tangled vines glistening on his head, wit
 > **धगद्धगद्धगज्ज्वलल्ललाटपट्टपावके  
 > किशोरचन्द्रशेखरे रतिः प्रतिक्षणं मम**
 > 
-> Dhagad-Dhagad-Dhagad-**Gajjvala**\-Patta-Pavake
+> Dhagad-Dhagad-Dhagad-Gajjvala-Lalata-Patta-Pavake
 > 
 > Kishora-Chandra-Shekhare Ratihi Pratikshanam Mama
 
 A fire-like cracking flame burns on his forehead, and on his head, the crescent of the moon shines like a crown, I am devoted to him in every moment
 
-* **धगद्धगद्धगज्ज्वलल्ललाटपट्टपावके (Dhagad-Dhagad-Dhagad-Gajjvala-Patta-Pavake): The fire-like crackling flame burns on the forehead region**
+* **धगद्धगद्धगज्ज्वलल्ललाटपट्टपावके (Dhagad-Dhagad-Dhagad-Gajjvala-Lalata-Patta-Pavake): The fire-like crackling flame burns on the forehead region**
     
     * धगद्धगद्धगज्ज्वल (Dhagad-Dhagad-Dhagadha-Gajjvala): The sound of fire burning, crackling flames
         
