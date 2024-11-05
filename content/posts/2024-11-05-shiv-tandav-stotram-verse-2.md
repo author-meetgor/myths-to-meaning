@@ -2,7 +2,7 @@
 title: "Shiv Tandav Stotram: Verse 2"
 summary: "Understanding the meaning behind the Shiv Tandav Stotram, taking a detailed look at the second verse, and uncovering its true meaning."
 description: "Understanding the meaning behind the Shiv Tandav Stotram, taking a detailed look at the second verse, and uncovering its true meaning."
-date: 2024-11-04
+date: 2024-11-05
 categories:
     - mythology
 tags:
